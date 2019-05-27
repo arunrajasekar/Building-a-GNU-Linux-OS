@@ -1,9 +1,20 @@
 # Building a GNU/Linux OS
+
 Building a GNU/Linux operating system from the source packages. 
 
 
+All operating systems that are available, are size-heavy and built for a diverse audience.
+
+Customized operating systems that serves each individual user's purpose and does nothing else, are wanted by so many. Also by me. Hence, I built a GNU/Linux operating system, that only contains the software that I need and nothing else.
+It decreases the size, the OS occupies by a huge factor. Also, we know what all softwares are installed and be sure that no spywares or other malware is present.
+
 
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
+
+
+The total size of the installed system is 6 GB and can run with RAM as low as 512 MB. This system is built to be compatible on all x86_64 systems.
+
+
 
 ![heckert 3tux](https://user-images.githubusercontent.com/50910834/58426716-f5587c00-80ba-11e9-8f85-d5fcaab12a6b.png)
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
