@@ -9,10 +9,9 @@ Customized operating systems that serves each individual user's purpose and does
 It decreases the size, the OS occupies by a huge factor. Also, we know what all softwares are installed and be sure that no spywares or other malware is present.
 
 
-![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
-
-
 The total size of the installed system is 6 GB and can run with RAM as low as 512 MB. This system is built to be compatible on all x86_64 systems.
+
+![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
 
 
