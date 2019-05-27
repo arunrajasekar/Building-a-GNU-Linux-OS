@@ -4,12 +4,12 @@ Building a GNU/Linux operating system from the source packages.
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
 
-Source packages - GNU utilities and the Linux kernel:
+_Source packages - GNU utilities and the Linux kernel:_
 
 ![Source packages - GNU utilities and the Linux kernel](https://user-images.githubusercontent.com/50910834/58424872-110d5380-80b6-11e9-9a76-c9522e7f2846.png)
  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
  
-Folder containing the Source files of the GNU packages:
+_Folder containing the Source files of the GNU packages:_
 
 ![Folder containing the Source files of the GNU packages ](https://user-images.githubusercontent.com/50910834/58423093-e1f4e300-80b1-11e9-833d-78bf99d192b9.png)
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
@@ -57,9 +57,11 @@ Debugging  an error while building the GNU Compiler Collection:
 Virtual Box  Instance - Details:
 
 ![Virtual Box  Instance - Details](https://user-images.githubusercontent.com/50910834/58423114-ec16e180-80b1-11e9-8b43-94d3c55e61b5.png)
+
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
 ![Virtual Box  Instance - Details 2](https://user-images.githubusercontent.com/50910834/58423118-ecaf7800-80b1-11e9-9049-d29195201793.png)
+
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
 Restoring the virtual machine from a saved machine state:
